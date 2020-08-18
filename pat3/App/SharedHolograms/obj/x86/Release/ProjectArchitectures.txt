@@ -1,0 +1,2 @@
+E:\Unity Projects\HolographicAcademy-Holograms-240-SharedHolograms\SharedHolograms\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+E:\Unity Projects\HolographicAcademy-Holograms-240-SharedHolograms\SharedHolograms\App\SharedHolograms\SharedHolograms.csproj;x86
